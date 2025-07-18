@@ -1,0 +1,453 @@
+<strings>
+    <string id="AppName">Segment34 MkII</string>
+
+    <string id="UNIT_KCAL">KCAL</string>
+    <string id="UNIT_M">M</string>
+    <string id="UNIT_FT">FT</string>
+    <string id="UNIT_STEPS">SKRIDT</string>
+    <string id="UNIT_PUSHES">SKUB</string>
+    <string id="LABEL_FL">FL</string>
+    <string id="LABEL_NA">N/A</string>
+    <string id="LABEL_POS_NA">POSITION N/A</string>
+
+    <string id="WEATHER_0">KLART</string>
+    <string id="WEATHER_1">DELVIST SKYET</string>
+    <string id="WEATHER_2">MEST SKYET</string>
+    <string id="WEATHER_3">REGN</string>
+    <string id="WEATHER_4">SNE</string>
+    <string id="WEATHER_5">BLÆSENDE</string>
+    <string id="WEATHER_6">TORDENVEJR</string>
+    <string id="WEATHER_7">SLUD</string>
+    <string id="WEATHER_8">TÅGE</string>
+    <string id="WEATHER_9">DIS</string>
+    <string id="WEATHER_10">HAGL</string>
+    <string id="WEATHER_11">SPREDTE BYGER</string>
+    <string id="WEATHER_12">SPR. TORDENVEJR</string>
+    <string id="WEATHER_13">UKENDT NEDBØR</string>
+    <string id="WEATHER_14">LET REGN</string>
+    <string id="WEATHER_15">KRAFTIG REGN</string>
+    <string id="WEATHER_16">LET SNE</string>
+    <string id="WEATHER_17">KRAFTIG SNE</string>
+    <string id="WEATHER_18">LET SLUD</string>
+    <string id="WEATHER_19">KRAFTIG SLUD</string>
+    <string id="WEATHER_20">SKYET</string>
+    <string id="WEATHER_21">REGN SNE</string>
+    <string id="WEATHER_22">DELVIST KLART</string>
+    <string id="WEATHER_23">MEST KLART</string>
+    <string id="WEATHER_24">LETTE BYGER</string>
+    <string id="WEATHER_25">BYGER</string>
+    <string id="WEATHER_26">KRAFTIGE BYGER</string>
+    <string id="WEATHER_27">CHANCE FOR BYGER</string>
+    <string id="WEATHER_28">CH. FOR TORDENVEJR</string>
+    <string id="WEATHER_29">STUM TÅGE</string>
+    <string id="WEATHER_30">STØV</string>
+    <string id="WEATHER_31">STØVREGN</string>
+    <string id="WEATHER_32">TORNADO</string>
+    <string id="WEATHER_33">RØG</string>
+    <string id="WEATHER_34">IS</string>
+    <string id="WEATHER_35">SAND</string>
+    <string id="WEATHER_36">VINDSTØD</string>
+    <string id="WEATHER_37">SANDSTORM</string>
+    <string id="WEATHER_38">VULKANSK ASKE</string>
+    <string id="WEATHER_39">DIS</string>
+    <string id="WEATHER_40">PÆNT</string>
+    <string id="WEATHER_41">ORKAN</string>
+    <string id="WEATHER_42">TROPESTORM</string>
+    <string id="WEATHER_43">CHANCE FOR SNE</string>
+    <string id="WEATHER_44">CHANCE FOR SLUD</string>
+    <string id="WEATHER_45">SKYET CH. FOR REGN</string>
+    <string id="WEATHER_46">SKYET CH. FOR SNE</string>
+    <string id="WEATHER_47">SKYET CH. FOR SLUD</string>
+    <string id="WEATHER_48">FNUG</string>
+    <string id="WEATHER_49">ISREGN</string>
+    <string id="WEATHER_50">SLUD</string>
+    <string id="WEATHER_51">ISSNE</string>
+    <string id="WEATHER_52">TYNDE SKYER</string>
+    <string id="WEATHER_53">UKENDT</string>
+
+    <string id="DAY_OF_WEEK_SUN">SØN</string>
+    <string id="DAY_OF_WEEK_MON">MAN</string>
+    <string id="DAY_OF_WEEK_TUE">TIR</string>
+    <string id="DAY_OF_WEEK_WED">ONS</string>
+    <string id="DAY_OF_WEEK_THU">TOR</string>
+    <string id="DAY_OF_WEEK_FRI">FRE</string>
+    <string id="DAY_OF_WEEK_SAT">LØR</string>
+
+    <string id="MONTH_JAN">JAN</string>
+    <string id="MONTH_FEB">FEB</string>
+    <string id="MONTH_MAR">MAR</string>
+    <string id="MONTH_APR">APR</string>
+    <string id="MONTH_MAY">MAJ</string>
+    <string id="MONTH_JUN">JUN</string>
+    <string id="MONTH_JUL">JUL</string>
+    <string id="MONTH_AUG">AUG</string>
+    <string id="MONTH_SEP">SEP</string>
+    <string id="MONTH_OCT">OKT</string>
+    <string id="MONTH_NOV">NOV</string>
+    <string id="MONTH_DEC">DEC</string>
+
+    <string id="LABEL_WMIN_1">U MIN</string>
+    <string id="LABEL_WMIN_2">UGE MIN</string>
+    <string id="LABEL_WMIN_3">UGE AKT MIN</string>
+    <string id="LABEL_DMIN_1">D MIN</string>
+    <string id="LABEL_DMIN_2">MIN I DAG</string>
+    <string id="LABEL_DMIN_3">DAG AKT MIN</string>
+    <string id="LABEL_DKM_1">D KM</string>
+    <string id="LABEL_DKM_2">KM I DAG</string>
+    <string id="LABEL_DMI_1">D MI</string>
+    <string id="LABEL_DMI_2">MI I DAG</string>
+    <string id="LABEL_DMI_3">MILES I DAG</string>
+    <string id="LABEL_FLOORS">ETAGER:</string>
+    <string id="LABEL_CLIMB_1">STIG</string>
+    <string id="LABEL_CLIMB_2">M STEGET</string>
+    <string id="LABEL_RECOV_1">REST</string>
+    <string id="LABEL_RECOV_2">REST TID</string>
+    <string id="LABEL_RECOV_3">RESTITUTIONSTID</string>
+    <string id="LABEL_VO2_1">V02</string>
+    <string id="LABEL_VO2_2">V02 MAX</string>
+    <string id="LABEL_VO2RUN_3">LØB V02 MAX</string>
+    <string id="LABEL_VO2BIKE_3">CYKEL V02 MAX</string>
+    <string id="LABEL_RESP_1">RESP</string>
+    <string id="LABEL_RESP_2">RESP RATE</string>
+    <string id="LABEL_RESP_3">RESP. RATE</string>
+    <string id="LABEL_HR">PULS:</string>
+    <string id="LABEL_CAL_1">KAL</string>
+    <string id="LABEL_CAL_2">KALORIER</string>
+    <string id="LABEL_CAL_3">DGL KALORIER</string>
+    <string id="LABEL_ALT_1">HØJDE</string>
+    <string id="LABEL_ALT_2">HØJDE</string>
+    <string id="LABEL_ALTM_3">HØJDE M</string>
+    <string id="LABEL_STRESS">STRESS:</string>
+    <string id="LABEL_ALTFT_3">HØJDE FT</string>
+    <string id="LABEL_BBAT_1">B BATT</string>
+    <string id="LABEL_BBAT_2">BODY BATT</string>
+    <string id="LABEL_BBAT_3">BODY BATTERY</string>
+    <string id="LABEL_STEPS">SKRIDT:</string>
+    <string id="LABEL_DIST_1">DIST</string>
+    <string id="LABEL_DIST_2">M I DAG</string>
+    <string id="LABEL_DIST_3">METER I DAG</string>
+    <string id="LABEL_PUSHES">SKUB:</string>
+    <string id="LABEL_WKM_1">U KM</string>
+    <string id="LABEL_WRUNM_2">U LØB KM</string>
+    <string id="LABEL_WRUNM_3">UGE LØB KM</string>
+    <string id="LABEL_WMI_1">U MI</string>
+    <string id="LABEL_WRUNMI_2">U LØB MI</string>
+    <string id="LABEL_WRUNMI_3">UGE LØB MI</string>
+    <string id="LABEL_WBIKEKM_2">U CYKEL KM</string>
+    <string id="LABEL_WBIKEKM_3">UGE CYKEL KM</string>
+    <string id="LABEL_WBIKEMI_2">U CYKEL MI</string>
+    <string id="LABEL_WBIKEMI_3">UGE CYKEL MI</string>
+    <string id="LABEL_TRAINING">TRÆNING:</string>
+    <string id="LABEL_PRESSURE">TRYK:</string>
+    <string id="LABEL_KG_1">KG</string>
+    <string id="LABEL_WEIGHT_2">VÆGT</string>
+    <string id="LABEL_KG_3">VÆGT KG</string>
+    <string id="LABEL_LBS_1">LBS</string>
+    <string id="LABEL_LBS_3">VÆGT LBS</string>
+    <string id="LABEL_ACAL_1">A KAL</string>
+    <string id="LABEL_ACAL_2">AKT. KAL</string>
+    <string id="LABEL_ACAL_3">AKT. KALORIER</string>
+    <string id="LABEL_WEEK">UGE:</string>
+    <string id="LABEL_WDISTKM_2">UGE KM</string>
+    <string id="LABEL_WDISTKM_3">UGE DIST KM</string>
+    <string id="LABEL_WDISTMI_2">UGE MI</string>
+    <string id="LABEL_WDISTMI_3">UGENTLIGE MILES</string>
+    <string id="LABEL_BATT_1">BATT</string>
+    <string id="LABEL_BATT_2">BATT %</string>
+    <string id="LABEL_BATT_3">BATTERI %</string>
+    <string id="LABEL_BATTD_1">BATT D</string>
+    <string id="LABEL_BATTD_2">BATT DAGE</string>
+    <string id="LABEL_BATTD_3">BATTERI DAGE</string>
+    <string id="LABEL_NOTIFS_1">NOTIFS</string>
+    <string id="LABEL_NOTIFS_3">NOTIFIKATIONER</string>
+    <string id="LABEL_SUN_1">SOL</string>
+    <string id="LABEL_SUNINT_2">SOL INT</string>
+    <string id="LABEL_SUNINT_3">SOL INTENSITET</string>
+    <string id="LABEL_TEMP_1">TEMP</string>
+    <string id="LABEL_STEMP_3">SENSOR TEMP</string>
+    <string id="LABEL_DAWN_1">SOLOPG</string>
+    <string id="LABEL_DAWN_2">SOLOPGANG</string>
+    <string id="LABEL_DUSK_1">SOLNED</string>
+    <string id="LABEL_DUSK_2">SOLNEDGANG</string>
+    <string id="LABEL_ALARM_1">ALARM</string>
+    <string id="LABEL_ALARM_2">ALARMER</string>
+    <string id="LABEL_HIGH_1">HØJ</string>
+    <string id="LABEL_HIGH_2">DAGLIG HØJ</string>
+    <string id="LABEL_LOW_1">LAV</string>
+    <string id="LABEL_LOW_2">DAGLIG LAV</string>
+    <string id="LABEL_TEMP_3">TEMPERATUR</string>
+    <string id="LABEL_PRECIP_1">NEDBØR</string>
+    <string id="LABEL_PRECIP_3">NEDBØR</string>
+    <string id="LABEL_NEXTSUN_1">SOL</string>
+    <string id="LABEL_NEXTSUN_2">NÆSTE SOL</string>
+    <string id="LABEL_NEXTSUN_3">NÆSTE SOL HND</string>
+    <string id="LABEL_NEXTCAL_1">KAL</string>
+    <string id="LABEL_NEXTCAL_2">NÆSTE KAL</string>
+    <string id="LABEL_NEXTCAL_3">NÆSTE KAL HND</string>
+    <string id="LABEL_OX_1">OX</string>
+    <string id="LABEL_OX_2">PULS OX</string>
+    <string id="LABEL_ACC_1">NØJAG</string>
+    <string id="LABEL_ACC_2">POS NØJAG</string>
+    <string id="LABEL_ACC_3">POS NØJAGTIGHED</string>
+    <string id="LABEL_UV_1">UV</string>
+    <string id="LABEL_UV_2">UV INDEKS</string>
+    <string id="LABEL_HUM_1">FUGTI</string>
+    <string id="LABEL_HUM_2">FUGTIGHED</string>
+
+    <!-- Settings strings with scope="settings" -->
+    <string id="settings_color_theme" scope="settings">Farvetema</string>
+    <string id="settings_yellow_on_turquoise" scope="settings">Gul på turkis</string>
+    <string id="settings_yellow_on_blue" scope="settings">Gul på blå</string>
+    <string id="settings_hot_pink" scope="settings">Hot pink</string>
+    <string id="settings_blue" scope="settings">Blå</string>
+    <string id="settings_blueish_green" scope="settings">Blågrøn</string>
+    <string id="settings_green" scope="settings">Grøn</string>
+    <string id="settings_green_camo" scope="settings">Grøn camo</string>
+    <string id="settings_green_and_orange" scope="settings">Grøn og orange</string>
+    <string id="settings_orange" scope="settings">Orange</string>
+    <string id="settings_amber" scope="settings">Rav</string>
+    <string id="settings_peachy_orange" scope="settings">Fersken orange</string>
+    <string id="settings_red" scope="settings">Rød</string>
+    <string id="settings_purple" scope="settings">Lilla</string>
+    <string id="settings_white_on_turquoise" scope="settings">Hvid på turkis</string>
+    <string id="settings_white_on_red" scope="settings">Hvid på rød</string>
+    <string id="settings_white_on_blue" scope="settings">Hvid på blå</string>
+    <string id="settings_white_on_orange" scope="settings">Hvid på orange</string>
+    <string id="settings_white_on_black" scope="settings">Hvid på sort</string>
+    <string id="settings_black_on_white" scope="settings">Sort på hvid (ikke anbefalet til AMOLED)</string>
+    <string id="settings_red_on_white" scope="settings">Rød på hvid (ikke anbefalet til AMOLED)</string>
+    <string id="settings_blue_on_white" scope="settings">Blå på hvid (ikke anbefalet til AMOLED)</string>
+    <string id="settings_green_on_white" scope="settings">Grøn på hvid (ikke anbefalet til AMOLED)</string>
+    <string id="settings_orange_on_white" scope="settings">Orange på hvid (ikke anbefalet til AMOLED)</string>
+    <string id="settings_purple_on_white" scope="settings">Lilla på hvid (ikke anbefalet til AMOLED)</string>
+    <string id="settings_custom_colors" scope="settings">Brugerdefinerede farver, se FAQ 1.2.0 for detaljer</string>
+    <string id="settings_custom_colors_faq" scope="settings">Brugerdefinerede farver, se FAQ for detaljer</string>
+    <string id="settings_night_color_theme" scope="settings">Nat Farvetema</string>
+    <string id="settings_no_change" scope="settings">Ingen ændring</string>
+    <string id="settings_night_theme_activation" scope="settings">Aktiver Nat Farvetema:</string>
+    <string id="settings_during_scheduled_sleep" scope="settings">Under planlagte søvntimer</string>
+    <string id="settings_two_hours_before" scope="settings">2 timer før planlagte søvntimer</string>
+    <string id="settings_from_sunset_sunrise" scope="settings">Fra solnedgang til solopgang (kræver vejrdata)</string>
+    <string id="settings_custom_colors_read" scope="settings">Brugerdefinerede farver, læs FAQ først</string>
+    <string id="settings_enter_13_values" scope="settings">Indtast 13 værdier adskilt af mellemrum, #FFFFFF format eller -</string>
+    <string id="settings_clock_outline_style" scope="settings">Ur kontur stil (kun AMOLED)</string>
+    <string id="settings_filled_numbers_no_outline" scope="settings">Udfyldte tal ingen kontur, samme i AOD</string>
+    <string id="settings_filled_numbers_no_outline_aod" scope="settings">Udfyldte tal ingen kontur, kun kontur i AOD</string>
+    <string id="settings_filled_numbers_no_outline_filled" scope="settings">Udfyldte tal ingen kontur, udfyldt med kontur farve i AOD</string>
+    <string id="settings_filled_numbers_with_outline" scope="settings">Udfyldte tal med kontur, samme i AOD</string>
+    <string id="settings_filled_numbers_with_outline_aod" scope="settings">Udfyldte tal med kontur, kun kontur i AOD</string>
+    <string id="settings_filled_numbers_plain" scope="settings">Udfyldte tal ingen kontur, ingen gradient i AOD (bedre for redshift)</string>
+    <string id="settings_update_frequency" scope="settings">Opdateringsfrekvens for data</string>
+    <string id="settings_every_minute" scope="settings">Hvert minut</string>
+    <string id="settings_every_5_seconds" scope="settings">Hvert 5. sekund</string>
+    <string id="settings_every_second" scope="settings">Hvert sekund</string>
+    <string id="settings_top_part_shows" scope="settings">Top del viser</string>
+    <string id="settings_two_small_data" scope="settings">To små datafelter og Månefase</string>
+    <string id="settings_two_small_data_fields" scope="settings">To små datafelter</string>
+    <string id="settings_histogram_graph" scope="settings">Et histogram graf (sidste 2 timers data)</string>
+    <string id="settings_top_left_small" scope="settings">Øverst venstre lille datafelt:</string>
+    <string id="settings_hidden" scope="settings">Skjult</string>
+    <string id="settings_active_min_week" scope="settings">Aktive min / uge</string>
+    <string id="settings_active_min_day" scope="settings">Aktive min / dag</string>
+    <string id="settings_distance_km_day" scope="settings">Distance (km) / dag</string>
+    <string id="settings_distance_miles_day" scope="settings">Distance (miles) / dag</string>
+    <string id="settings_run_distance_km_week" scope="settings">Løb distance (km) / uge</string>
+    <string id="settings_run_distance_miles_week" scope="settings">Løb distance (miles) / uge</string>
+    <string id="settings_bike_distance_km_week" scope="settings">Cykel distance (km) / uge</string>
+    <string id="settings_bike_distance_miles_week" scope="settings">Cykel distance (miles) / uge</string>
+    <string id="settings_total_distance_7_days_km" scope="settings">Total distance sidste 7 dage (km)</string>
+    <string id="settings_total_distance_7_days_miles" scope="settings">Total distance sidste 7 dage (miles)</string>
+    <string id="settings_floors_climbed_day" scope="settings">Etager steget / dag</string>
+    <string id="settings_meters_climbed_day" scope="settings">Meter steget / dag</string>
+    <string id="settings_time_to_recovery" scope="settings">Tid til Restitution (t)</string>
+    <string id="settings_vo2_max_running" scope="settings">VO2 Max Løb</string>
+    <string id="settings_vo2_max_cycling" scope="settings">VO2 Max Cykling</string>
+    <string id="settings_respiration_rate" scope="settings">Respirationsfrekvens</string>
+    <string id="settings_heart_rate" scope="settings">Puls</string>
+    <string id="settings_pulse_ox" scope="settings">Puls Ox</string>
+    <string id="settings_calories_kcal_day" scope="settings">Kalorier (kcal) / dag</string>
+    <string id="settings_active_calories_kcal_day" scope="settings">Aktive kalorier (kcal) / dag</string>
+    <string id="settings_altitude_m" scope="settings">Højde (m)</string>
+    <string id="settings_altitude_ft" scope="settings">Højde (ft)</string>
+    <string id="settings_stress_score" scope="settings">Stress score</string>
+    <string id="settings_body_battery" scope="settings">Body battery</string>
+    <string id="settings_sunrise_time" scope="settings">Solopgang tid</string>
+    <string id="settings_sunset_time" scope="settings">Solnedgang tid</string>
+    <string id="settings_next_sun_event" scope="settings">Næste solhændelse tid</string>
+    <string id="settings_alternative_timezone_1" scope="settings">Alternativ Tidszone 1</string>
+    <string id="settings_alternative_timezone_2" scope="settings">Alternativ Tidszone 2</string>
+    <string id="settings_barometric_pressure_raw" scope="settings">Barometertryk, rå</string>
+    <string id="settings_barometric_pressure_sea" scope="settings">Barometertryk, havniveau</string>
+    <string id="settings_weight_kg" scope="settings">Vægt (kg)</string>
+    <string id="settings_weight_lbs" scope="settings">Vægt (lbs)</string>
+    <string id="settings_week_number" scope="settings">Ugenummer</string>
+    <string id="settings_battery_percentage" scope="settings">Batteri procent</string>
+    <string id="settings_battery_days_remaining" scope="settings">Batteri dage tilbage</string>
+    <string id="settings_notification_count" scope="settings">Notifikations antal</string>
+    <string id="settings_solar_intensity" scope="settings">Sol intensitet</string>
+    <string id="settings_sensor_temperature" scope="settings">Sensor temperatur</string>
+    <string id="settings_alarms_count" scope="settings">Alarmer (antal)</string>
+    <string id="settings_weather_daily_high" scope="settings">Vejr: Daglig højeste temp.</string>
+    <string id="settings_weather_daily_low" scope="settings">Vejr: Daglig laveste temp.</string>
+    <string id="settings_weather_temperature" scope="settings">Vejr: Temperatur</string>
+    <string id="settings_weather_chance_precipitation" scope="settings">Vejr: Chance for nedbør</string>
+    <string id="settings_weather_humidity" scope="settings">Vejr: Fugtighed</string>
+    <string id="settings_weather_uv_index" scope="settings">Vejr: UV indeks</string>
+    <string id="settings_next_calendar_event" scope="settings">Næste kalender hændelse tid</string>
+    <string id="settings_next_calendar_event_time" scope="settings">Næste kalender hændelse tid</string>
+    <string id="settings_top_right_small" scope="settings">Øverst højre lille datafelt:</string>
+    <string id="settings_histogram_shows" scope="settings">Histogram viser (skal aktiveres i Top Del viser)</string>
+    <string id="settings_body_battery_history" scope="settings">Kropsbatteri historik</string>
+    <string id="settings_elevation_history" scope="settings">Højde historik</string>
+    <string id="settings_heart_rate_history" scope="settings">Puls historik</string>
+    <string id="settings_oxygen_saturation_history" scope="settings">Ilt mætning historik</string>
+    <string id="settings_pressure_history" scope="settings">Tryk historik</string>
+    <string id="settings_stress_history" scope="settings">Stress historik</string>
+    <string id="settings_stress_rest_orange_blue" scope="settings">Stress/hvile (orange/blå)</string>
+    <string id="settings_temperature_sensor_history" scope="settings">Temperatur sensor historik</string>
+    <string id="settings_small_font_variant" scope="settings">Lille dot matrix skriftvariant:</string>
+    <string id="settings_dots" scope="settings">Prikker</string>
+    <string id="settings_blended" scope="settings">Blandet</string>
+    <string id="settings_lines_highest_contrast" scope="settings">Linjer (højeste kontrast)</string>
+    <string id="settings_line_1_above_clock" scope="settings">Linje 1 over ur viser:</string>
+    <string id="settings_date" scope="settings">Dato</string>
+    <string id="settings_temperature_wind_feels" scope="settings">Temperatur, Vind, Føles som</string>
+    <string id="settings_temperature_wind" scope="settings">Temperatur, Vind</string>
+    <string id="settings_temperature_wind_humidity" scope="settings">Temperatur, Vind, Fugtighed</string>
+    <string id="settings_temperature_wind_high_low" scope="settings">Temperatur, Vind, Høj/Lav</string>
+    <string id="settings_temperature_wind_precipitation" scope="settings">Temperatur, Vind, Nedbør chance</string>
+    <string id="settings_temperature_wind_humidity_precipitation" scope="settings">Temperatur, Vind, Fugtighed, Nedbør chance</string>
+    <string id="settings_temperature_humidity_high_low" scope="settings">Temperatur, Fugtighed, Høj/Lav</string>
+    <string id="settings_temperature_uv_high_low" scope="settings">Temperatur, UV Indeks, Høj/Lav</string>
+    <string id="settings_temperature_feels_high_low" scope="settings">Temperatur, Føles som, Høj/Lav</string>
+    <string id="settings_temperature_precipitation_high_low" scope="settings">Temperatur, Nedbør chance, Høj/Lav</string>
+    <string id="settings_weather_conditions_precipitation" scope="settings">Vejrforhold, Nedbør chance</string>
+    <string id="settings_weather_conditions" scope="settings">Vejrforhold</string>
+    <string id="settings_daily_high_temperature" scope="settings">Daglig højeste temperatur</string>
+    <string id="settings_daily_low_temperature" scope="settings">Daglig laveste temperatur</string>
+    <string id="settings_temperature" scope="settings">Temperatur</string>
+    <string id="settings_chance_of_precipitation" scope="settings">Chance for nedbør</string>
+    <string id="settings_steps_day" scope="settings">Skridt / dag</string>
+    <string id="settings_wheelchair_pushes_day" scope="settings">Kørestol skub / dag</string>
+    <string id="settings_calories_kcal_day_2" scope="settings">Kalorier (kcal) / dag</string>
+    <string id="settings_active_total_calories" scope="settings">Aktive/Total Kalorier (kcal) / dag</string>
+    <string id="settings_altitude_m_2" scope="settings">Højde (m)</string>
+    <string id="settings_altitude_ft_2" scope="settings">Højde (ft)</string>
+    <string id="settings_training_status" scope="settings">Træningsstatus</string>
+    <string id="settings_military_date_time" scope="settings">Militær Dato Tid Gruppe (UTC)</string>
+    <string id="settings_current_location_lat_long" scope="settings">Nuværende position (Bredde/Længde i Decimaler)</string>
+    <string id="settings_current_location_military" scope="settings">Nuværende position (Militært Grid Ref. System)</string>
+    <string id="settings_current_location_accuracy" scope="settings">Nuværende position Nøjagtighed</string>
+    <string id="settings_line_2_above_clock" scope="settings">Linje 2 over ur viser:</string>
+    <string id="settings_weather_conditions_precipitation_chance" scope="settings">Vejrforhold + Nedbør chance</string>
+    <string id="settings_line_below_clock" scope="settings">Linje under ur viser:</string>
+    <string id="settings_bottom_field_layout" scope="settings">Bundfeld layout (antal cifre pr. felt)</string>
+    <string id="settings_auto_default_layout" scope="settings">Auto - Standard layout afhænger af skærmstørrelse</string>
+    <string id="settings_bottom_value_1_left" scope="settings">Bundværdi 1 (venstre):</string>
+    <string id="settings_bottom_value_2" scope="settings">Bundværdi 2:</string>
+    <string id="settings_bottom_value_3" scope="settings">Bundværdi 3:</string>
+    <string id="settings_bottom_value_4" scope="settings">Bundværdi 4 (hvis tilgængelig):</string>
+    <string id="settings_bottom_5_digit" scope="settings">Bund 5 ciffer værdi:</string>
+    <string id="settings_bottom_5_digit_value" scope="settings">Bund 5 ciffer værdi:</string>
+    <string id="settings_distance_meter_day" scope="settings">Distance (meter) / dag</string>
+    <string id="settings_battery_display" scope="settings">Batteri visning:</string>
+    <string id="settings_remaining_days" scope="settings">Resterende dage</string>
+    <string id="settings_percentage_remaining" scope="settings">Procent tilbage</string>
+    <string id="settings_bar" scope="settings">Bjælke</string>
+    <string id="settings_left_icon_indicates" scope="settings">Venstre ikon angiver:</string>
+    <string id="settings_alarm" scope="settings">Alarm</string>
+    <string id="settings_do_not_disturb" scope="settings">Forstyr ikke</string>
+    <string id="settings_bluetooth_on_off" scope="settings">Bluetooth (til/fra)</string>
+    <string id="settings_bluetooth_just_when_off" scope="settings">Bluetooth (kun når fra)</string>
+    <string id="settings_move_bar" scope="settings">Bevæg Bjælke</string>
+    <string id="settings_right_icon_indicates" scope="settings">Højre ikon angiver:</string>
+    <string id="settings_always_on_below" scope="settings">Altid Tændt (under ur):</string>
+    <string id="settings_second_always_on" scope="settings">Andet Altid Tændt Felt (til højre):</string>
+    <string id="settings_text_alignment_always" scope="settings">Tekst justering for Altid Tændt linje (under ur):</string>
+    <string id="settings_left" scope="settings">Venstre</string>
+    <string id="settings_center" scope="settings">Centrum</string>
+    <string id="settings_text_alignment_date" scope="settings">Tekst justering for Dato:</string>
+    <string id="settings_text_alignment_bottom" scope="settings">Tekst justering for bund datafelter:</string>
+    <string id="settings_right" scope="settings">Højre</string>
+    <string id="settings_left_center_5_digit" scope="settings">Venstre, men centrer 5 ciffer feltet</string>
+    <string id="settings_press_top_third" scope="settings">Tryk øverste tredjedel for at åbne:</string>
+    <string id="settings_nothing" scope="settings">Intet</string>
+    <string id="settings_toggle_night_color" scope="settings">Skift nat farvetema</string>
+    <string id="settings_battery" scope="settings">Batteri</string>
+    <string id="settings_steps" scope="settings">Skridt</string>
+    <string id="settings_calories" scope="settings">Kalorier</string>
+    <string id="settings_floors_climbed" scope="settings">Etager steget</string>
+    <string id="settings_intensity_minutes" scope="settings">Intensitets minutter</string>
+    <string id="settings_date_2" scope="settings">Dato</string>
+    <string id="settings_weather" scope="settings">Vejr</string>
+    <string id="settings_calendar" scope="settings">Kalender</string>
+    <string id="settings_sunrise" scope="settings">Solopgang</string>
+    <string id="settings_altitude" scope="settings">Højde</string>
+    <string id="settings_notifications" scope="settings">Notifikationer</string>
+    <string id="settings_heart_rate_2" scope="settings">Puls</string>
+    <string id="settings_weekly_run_distance" scope="settings">Ugentlig løb distance</string>
+    <string id="settings_weekly_bike_distance" scope="settings">Ugentlig cykel distance</string>
+    <string id="settings_recovery_time" scope="settings">Restitutionstid</string>
+    <string id="settings_stress" scope="settings">Stress</string>
+    <string id="settings_body_battery_2" scope="settings">Body battery</string>
+    <string id="settings_training_status_2" scope="settings">Træningsstatus</string>
+    <string id="settings_race_predictor_5k" scope="settings">Løbsprediktor 5k</string>
+    <string id="settings_pulse_ox_2" scope="settings">Puls OX</string>
+    <string id="settings_solar_input" scope="settings">Sol Input</string>
+    <string id="settings_press_middle_clock" scope="settings">Tryk midt (ur) for at åbne:</string>
+    <string id="settings_press_bottom_left" scope="settings">Tryk nederst venstre for at åbne:</string>
+    <string id="settings_press_bottom_center" scope="settings">Tryk nederst midt for at åbne:</string>
+    <string id="settings_press_bottom_right" scope="settings">Tryk nederst højre for at åbne:</string>
+    <string id="settings_hemisphere_moon" scope="settings">Halvkugle (for Måne ikon)</string>
+    <string id="settings_northern" scope="settings">Nordlig</string>
+    <string id="settings_southern" scope="settings">Sydlig</string>
+    <string id="settings_time_format" scope="settings">Tidsformat (12/24t)</string>
+    <string id="settings_auto_use_system" scope="settings">Auto - Brug systemindstilling</string>
+    <string id="settings_24h" scope="settings">24t</string>
+    <string id="settings_12h" scope="settings">12t</string>
+    <string id="settings_date_format" scope="settings">Datoformat</string>
+    <string id="settings_weekday_dd_month_yyyy" scope="settings">UGEDAG, DD MÅNED ÅÅÅÅ</string>
+    <string id="settings_weekday_dd_month" scope="settings">UGEDAG, DD MÅNED</string>
+    <string id="settings_yyyy_mm_dd" scope="settings">ÅÅÅÅ-MM-DD</string>
+    <string id="settings_mm_dd_yyyy" scope="settings">MM/DD/ÅÅÅÅ</string>
+    <string id="settings_dd_mm_yyyy" scope="settings">DD.MM.ÅÅÅÅ</string>
+    <string id="settings_weekday_yyyy_mm_dd" scope="settings">UGEDAG, ÅÅÅÅ-MM-DD</string>
+    <string id="settings_weekday_mm_dd_yyyy" scope="settings">UGEDAG, MM/DD/ÅÅÅÅ</string>
+    <string id="settings_weekday_dd_mm_yyyy" scope="settings">UGEDAG, DD.MM.ÅÅÅÅ</string>
+    <string id="settings_weekday_dd_month_week" scope="settings">UGEDAG, DD MÅNED (Uge)</string>
+    <string id="settings_weekday_dd_month_yyyy_week" scope="settings">UGEDAG, DD MÅNED ÅÅÅÅ (Uge)</string>
+    <string id="settings_alternative_timezone_1_label" scope="settings">Alternativ Tidszone 1 etiket</string>
+    <string id="settings_alternative_timezone_1_offset" scope="settings">Alternativ Tidszone 1 offset</string>
+    <string id="settings_alternative_timezone_2_label" scope="settings">Alternativ Tidszone 2 etiket</string>
+    <string id="settings_alternative_timezone_2_offset" scope="settings">Alternativ Tidszone 2 offset</string>
+    <string id="settings_temperature_unit" scope="settings">Temperatur enhed</string>
+    <string id="settings_c" scope="settings">C</string>
+    <string id="settings_f" scope="settings">F</string>
+    <string id="settings_wind_speed_unit" scope="settings">Vindhastighed enhed</string>
+    <string id="settings_ms" scope="settings">m/s</string>
+    <string id="settings_kmh" scope="settings">km/t</string>
+    <string id="settings_mph" scope="settings">mph</string>
+    <string id="settings_knots" scope="settings">knob</string>
+    <string id="settings_beufort" scope="settings">beaufort</string>
+    <string id="settings_pressure_unit" scope="settings">Tryk enhed</string>
+    <string id="settings_hpa" scope="settings">hPA</string>
+    <string id="settings_mmhg" scope="settings">mmHG</string>
+    <string id="settings_inhg" scope="settings">inHG</string>
+    <string id="settings_week_number_offset" scope="settings">Ugenummer offset (0 = normalt ugenummer)</string>
+    <string id="settings_show_clock_background" scope="settings">Vis ur baggrund</string>
+    <string id="settings_show_data_fields_background" scope="settings">Vis datafelter baggrund</string>
+    <string id="settings_show_notification_count" scope="settings">Vis Notifikations Antal</string>
+    <string id="settings_zeropad_hour_clock" scope="settings">Nul-udfyld time på ur</string>
+    <string id="settings_separator_hours_minutes" scope="settings">Separator mellem Timer og Minutter</string>
+    <string id="settings_colon" scope="settings">:</string>
+    <string id="settings_blank_space" scope="settings">Tomt mellemrum</string>
+    <string id="settings_no_separator" scope="settings">Ingen separator</string>
+    <string id="settings_show_seconds_active" scope="settings">Vis Sekunder i Aktiv tilstand</string>
+    <string id="settings_show_seconds_inactive" scope="settings">Vis sekunder i Inaktiv tilstand (kun MIP skærme)</string>
+    <string id="settings_show_stress_body_battery" scope="settings">Vis Stress (orange) og Body Battery (blå) bjælker</string>
+    <string id="settings_show_hide_labels" scope="settings">Vis/Skjul Etiketter</string>
+    <string id="settings_show_all_labels" scope="settings">Vis Alle Etiketter</string>
+    <string id="settings_hide_all_labels" scope="settings">Skjul Alle Etiketter</string>
+    <string id="settings_hide_top_labels" scope="settings">Skjul Top Etiketter</string>
+    <string id="settings_hide_bottom_labels" scope="settings">Skjul Bund Etiketter</string>
+</strings>
